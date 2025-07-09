@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop",
+    "cantidad": 10,
+    "imagen": "assets/images/laptop.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse",
+    "cantidad": 25,
+    "imagen": "assets/images/mouse.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado",
+    "cantidad": 15,
+    "imagen": "assets/images/teclado.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Lápiz pasta negro",
+    "cantidad": 15,
+    "imagen": "assets/images/lapiz_negro.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Lápiz pasta azul",
+    "cantidad": 15,
+    "imagen": "assets/images/lapiz_azul.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Lápiz pasta rojo",
+    "cantidad": 15,
+    "imagen": "assets/images/lapiz_rojo.png"
+  }
+]
