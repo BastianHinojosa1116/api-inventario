@@ -2,13 +2,13 @@
   {
     "id": 1,
     "nombre": "Laptop",
-    "cantidad": 10,
+    "cantidad": 5,
     "imagen": "assets/images/laptop.png"
   },
   {
     "id": 2,
     "nombre": "Mouse",
-    "cantidad": 25,
+    "cantidad": 30,
     "imagen": "assets/images/mouse.png"
   },
   {
